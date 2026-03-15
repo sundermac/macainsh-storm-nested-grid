@@ -44,3 +44,31 @@ CSS Guide
     line-height: 55px;
     justify-self: center;
 }
+
+
+
+/* 3. --Header-- */
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#logo-head {
+    justify-self: center;
+}
+
+#header-icons {
+    justify-self: end;
+    align-self: center;
+}
+
+#search {
+    margin-right: 20px;
+    width: 30px;
+    cursor: pointer;
+}
+
+#cart {
+    width: 30px;
+    cursor: pointer;
+}
