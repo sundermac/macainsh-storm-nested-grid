@@ -14,3 +14,33 @@ CSS Guide
 .light-blue {
     background-color: #80BDDF;
 }
+
+
+
+/* 2. --Main Nav-- */
+#main-nav {
+    display: none;
+    font-family: josefin-sans, sans-serif;
+    font-weight: 400;
+}
+
+#burger-btn {
+    cursor: pointer;
+    align-self: center;
+}
+
+#main-nav ul {
+    list-style-type: none;
+}
+
+#main-nav ul li {
+    text-align: center;
+}
+
+#main-nav ul li a {
+    text-decoration: none;
+    color: #2A4776;
+    font-size: 25px;
+    line-height: 55px;
+    justify-self: center;
+}
